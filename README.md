@@ -12,9 +12,9 @@ The challenge was to build a my first React App, become more familiar with TypeS
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
-<li>TypeScript<li>
-<li>JSX<li>
-<li>React<li>
-<li>npm<li>
+<li>TypeScript</li>
+<li>JSX</li>
+<li>React</li>
+<li>npm</li>
 <li>GIT & GITHUB</li>
 </ul>
