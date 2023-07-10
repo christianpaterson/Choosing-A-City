@@ -15,6 +15,6 @@ The challenge was to build a my first React App, become more familiar with TypeS
 <li>TypeScript</li>
 <li>JSX</li>
 <li>React</li>
-<li>npm</li>
+<li>npm--Or what I like to call my SuperLibrarian</li>
 <li>GIT & GITHUB</li>
 </ul>
